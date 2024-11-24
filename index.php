@@ -482,10 +482,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="mt-1 mb-4">
-                        <h2 class="h4">Liens commerciaux</h2>
-                        <div id="oan_ora_1_1x1_chaine.article.lienscommerciaux" widget-id="AR_13"></div>
-                    </div>
                     <div class="modal fade  inactivity-modal "
                         id="org-867d4868ae594741b7330acdfa9ad884" tabindex="-1" role="dialog"
                         aria-labelledby="inactivity-popin"
