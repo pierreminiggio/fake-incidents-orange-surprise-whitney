@@ -20,7 +20,7 @@
         <link rel="shortcut icon" href="https://actu.orange.fr/bundles/mfymedia/favicon.ico"  />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <?php $panneGeneraleTitle = 'Panne DNS générale du 29 novembre 2024' ?>
+        <?php $panneGeneraleTitle = 'Panne DNS générale en cours – 29 novembre 2024' ?>
         <?php $panneGeneraleFullTitle = $panneGeneraleTitle . ' : Incidents - Orange' ?>
         <meta property="og:title" content="<?php echo $panneGeneraleFullTitle; ?>" />
         <meta name="subject" content="<?php echo $panneGeneraleFullTitle; ?>" />
@@ -33,7 +33,7 @@
         <meta name="url" content="<?php echo $panneGeneraleUrl; ?>" />
         <link rel="canonical" href="<?php echo $panneGeneraleUrl; ?>"  />
 
-        <?php $panneUrlDescription = 'Nous subissons une panne DNS générale sur l\'ensemble du réseau'; ?>
+        <?php $panneUrlDescription = 'Orange informe ses clients qu’une panne technique affecte actuellement nos serveurs DNS, impactant à la fois les connexions mobiles et fibre.'; ?>
         <meta property="og:description" content="<?php echo $panneUrlDescription; ?>" />
         <meta property="twitter:description" content="<?php echo $panneUrlDescription; ?>" />
         <meta name="description" content="<?php echo $panneUrlDescription; ?>" />
@@ -285,9 +285,12 @@
                                 <div class="row d-flex flex-column flex-column-reverse flex-md-row">
                                     <div class="col-12  col-md-8 col-lg-9 " data-ads="article">
                                         <section class="lead">
-                                            <p class="lead "><strong>Bla bla paragraphe gras Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</strong></p>
-                                            <p class="lead ">Blabbla paragraphe 1 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-                                            <p class="lead ">Blabbla paragraphe 2 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                                            <p class="lead"><strong>Orange informe ses clients qu’une panne technique affecte actuellement nos serveurs DNS, impactant à la fois les connexions mobiles et fibre.</strong></p>
+                                            <p class="lead">Depuis ce matin, des perturbations peuvent être constatées lors de l’accès à certains sites internet. Nos équipes techniques sont mobilisées afin de résoudre ce problème dans les plus brefs délais.</p>
+                                            <p class="lead">Les interventions nécessaires, comprenant des opérations de maintenance et de redémarrage de nos systèmes, se poursuivront tout au long de la journée. Nous estimons un retour à la normale au cours de la nuit prochaine.</p>
+                                            <p class="lead">Nous présentons nos excuses pour la gêne occasionnée et vous remercions de votre compréhension.</p>
+                                            <p class="lead">Pour rester informé de l’évolution de la situation, n’hésitez pas à consulter régulièrement cette page.</p>
+                                            <p class="lead">L’équipe Orange</p>
                                         </section>
                                         <section class="d-flex justify-content-between flex-column  flex-md-row">
                                             <p class="small font-weight-bold text-gray3 "> publié le 29 novembre à 9h32</p>
