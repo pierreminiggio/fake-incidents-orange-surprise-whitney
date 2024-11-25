@@ -345,52 +345,6 @@
                                     });
                                 });
                             </script>
-                            <div class="mt-2">
-                                <div id="outbrain-container" data-ads="outbrain">
-                                    <div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3">
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="mt-3">
-                                <div id="ultimedia_wrapper" class="pip_reset-when-visible digitekawidget"></div>
-                                <script>
-                                    window.addEventListener("DOMContentLoaded", () => {
-                                    
-                                        new Pvp(
-                                            'digitekawidget',
-                                            {
-                                                'mdtk': '01582271',
-                                                'mediaType': 'digiteka-public',
-                                                'date': '<?php echo $articleDateTime; ?>'
-                                            },
-                                            {
-                                                'domNode': 'ultimedia_wrapper',
-                                                'skinId': 'orange'
-                                            }
-                                        )
-                                    })
-                                </script>
-                            </div>
-                            <div id="graphcomment"></div>
-                            <script>
-                                window.addEventListener("DOMContentLoaded", () => {
-                                    /* - - - CONFIGURATION VARIABLES: MAKE SURE THE ID IS YOURS - - - */
-                                    window.gc_params = {
-                                        graphcomment_id: 'orange-actu',
-                                        uid: 'CNT000002grN0ts',
-                                        publication_date: '<?php echo $articleDateTime; ?>', //datetime
-                                        lifetime: '7' //Number of days
-                                    };
-                                    /* - - - DON'T EDIT BELOW THIS LINE - - - */
-                                    (function () {
-                                        var gc = document.createElement('script');
-                                        gc.type = 'text/javascript';
-                                        gc.async = true;
-                                        gc.src = 'https://graphcomment.orange.fr/js/orange.js';
-                                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(gc);
-                                    })();
-                                });
-                            </script>
                         </div>
                         <div class="media-col-right d-none d-md-flex flex-column col-6 col-lg-5 col-xl-4 col-xxl-3" data-ads="sidebar">
                             <div class="flex flex-column align-items-center">
