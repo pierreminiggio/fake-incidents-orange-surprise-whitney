@@ -345,6 +345,15 @@
                                     });
                                 });
                             </script>
+                            <div class="mt-2">
+                                <div id="outbrain-container" data-ads="outbrain">
+                                    <div id="oan_ora_1_1x1_chaine.article.smartfeed" widget-id="AR_3">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="mt-3">
+                                <div id="ultimedia_wrapper" class="pip_reset-when-visible digitekawidget"></div>
+                            </div>
                         </div>
                         <div class="media-col-right d-none d-md-flex flex-column col-6 col-lg-5 col-xl-4 col-xxl-3" data-ads="sidebar">
                             <div class="flex flex-column align-items-center">
